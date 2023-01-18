@@ -1,0 +1,12 @@
+{
+  "name": "rickMorty",
+  "version": "1.0.0",
+  "description": "api for mi first mern project",
+  "main": "server.js",
+  "author": "Hector",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
